@@ -45,6 +45,7 @@ Effective inventory and sales management are critical in the retail sector. This
 
 - Multiple CSV files located in `/data/` folder (sales, vendors, inventory)
 - Summary table created from ingested data and used for analysis
+- ~200K+ rows | 6 CSV files | Vendors, Sales, Inventory, Pricing
 
 ---
 
