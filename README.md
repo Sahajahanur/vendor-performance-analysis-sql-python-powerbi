@@ -60,6 +60,22 @@ Effective inventory and sales management are critical in the retail sector. This
 
 ---
 
+## 🔄 Architecture / Data Pipeline
+
+```
+CSV Files (Raw Data)
+        ↓
+SQLite Database (ingestion_db.py)
+        ↓
+SQL ETL & Filtering
+        ↓
+Vendor Summary Table (get_vendor_summary.py)
+        ↓
+Python Analysis (Pandas · SciPy · Matplotlib · Seaborn)
+        ↓
+Power BI Dashboard (vendor_performance.pbix)
+```
+
 ## 📁 Project Structure
 
 ```
