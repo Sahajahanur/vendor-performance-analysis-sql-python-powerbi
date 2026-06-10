@@ -25,6 +25,8 @@
 
 This project evaluates vendor performance and retail inventory dynamics to drive strategic insights for purchasing, pricing, and inventory optimization. A complete data pipeline was built using **SQL** for ETL, **Python** for analysis and hypothesis testing, and **Power BI** for visualization.
 
+📄 **For detailed study of this project:** [View Full Report](https://github.com/Sahajahanur/vendor-performance-analysis-sql-python-powerbi/blob/main/Vendor%20Performance%20Report.pdf)
+
 ---
 
 ## ❗ Business Problem
